@@ -1,4 +1,4 @@
-const OPENAI_KEY = "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";
+const OPENAI_KEY = "";
 
 // SECTION: LLMS https://js.langchain.com/docs/get_started/quickstart
 
